@@ -1,0 +1,1 @@
+9999999999{"name": "mcstatus", "version": "10.0.1", "summary": "A library to query Minecraft Servers for their status and capabilities.", "platform": null, "requires_dist": ["asyncio-dgram (==2.1.2)", "dnspython (==2.2.1)"], "requires_python": ">=3.8,<4", "files": [], "_cache_version": "1.0.0"}

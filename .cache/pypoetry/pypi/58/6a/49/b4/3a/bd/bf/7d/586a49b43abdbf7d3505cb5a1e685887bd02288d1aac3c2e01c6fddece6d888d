@@ -1,0 +1,1 @@
+9999999999{"name": "import-expression", "version": "1.1.4", "summary": "Parses a superset of Python allowing for inline module import expressions", "platform": "", "requires_dist": ["pytest-cov ; extra == 'test'", "pytest ; extra == 'test'", "astunparse (<2.0.0,>=1.6.3)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

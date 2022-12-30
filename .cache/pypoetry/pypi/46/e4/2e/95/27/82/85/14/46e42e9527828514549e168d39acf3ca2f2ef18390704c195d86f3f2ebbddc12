@@ -1,0 +1,1 @@
+9999999999{"name": "rfc3986", "version": "1.5.0", "summary": "Validating URI References per RFC 3986", "platform": "", "requires_dist": ["idna ; extra == 'idna2008'"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

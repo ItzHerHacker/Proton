@@ -1,0 +1,1 @@
+9999999999{"name": "validators", "version": "0.20.0", "summary": "Python Data Validation for Humans\u2122.", "platform": "any", "requires_dist": ["decorator>=3.4.0", "pytest>=2.2.3 ; extra == \"test\"", "flake8>=2.4.0 ; extra == \"test\"", "isort>=4.2.2 ; extra == \"test\""], "requires_python": ">=3.4", "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "discord", "version": "2.0.0", "summary": "A mirror package for discord.py. Please install that instead.", "platform": null, "requires_dist": ["discord.py (>=2.0.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

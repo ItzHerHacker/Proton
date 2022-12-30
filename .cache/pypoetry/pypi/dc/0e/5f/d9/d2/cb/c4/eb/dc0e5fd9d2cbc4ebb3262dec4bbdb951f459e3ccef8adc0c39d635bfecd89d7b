@@ -1,0 +1,1 @@
+9999999999{"name": "isodate", "version": "0.6.1", "summary": "An ISO 8601 date/time/duration parser and formatter", "platform": "", "requires_dist": ["six"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

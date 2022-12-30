@@ -1,0 +1,1 @@
+9999999999{"name": "mypy-extensions", "version": "0.4.3", "summary": "Experimental type system extensions for programs checked with the mypy typechecker.", "platform": "", "requires_dist": ["typing (>=3.5.3) ; python_version < \"3.5\""], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
